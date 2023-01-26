@@ -1,0 +1,12 @@
+"對齊圖片": {
+  "prefix": "bootstrap5.0",
+  "body": [
+    "<img src=\"...\" class=\"rounded float-start\" alt=\"...\">",
+    "<img src=\"...\" class=\"rounded float-end\" alt=\"...\">",
+    "<img src=\"...\" class=\"rounded mx-auto d-block\" alt=\"...\">",
+    "<div class=\"text-center\">",
+    "<img src=\"...\" class=\"rounded\" alt=\"...\">",
+    "</div>"
+  ],
+  "description": "對齊圖片"
+}
