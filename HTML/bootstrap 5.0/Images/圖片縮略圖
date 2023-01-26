@@ -1,0 +1,7 @@
+"圖片縮略圖": {
+  "prefix": "bootstrap5.0",
+  "body": [
+    "<img src=\"...\" class=\"img-thumbnail\" alt=\"...\">"
+  ],
+  "description": "圖片縮略圖"
+}
