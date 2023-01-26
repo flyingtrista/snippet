@@ -1,0 +1,7 @@
+"響應式圖片": {
+  "prefix": "bootstrap5.0",
+  "body": [
+    "<img src=\"...\" class=\"img-fluid\" alt=\"...\">"
+  ],
+  "description": "響應式圖片"
+}
