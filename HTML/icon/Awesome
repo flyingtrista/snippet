@@ -1,9 +1,0 @@
-"Awesome": {
-  "prefix": "icon",
-  "body": [
-    "<!-- 載入Font Awesome : Dora-->",
-    "<script src=\"https://kit.fontawesome.com/0015b7851a.js\" crossorigin=\"anonymous\"></script>",
-    ""
-  ],
-  "description": "Awesome"
-}
