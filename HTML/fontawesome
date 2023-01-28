@@ -1,7 +1,10 @@
-"css": {
+"js": {
   "prefix": "fontawesome",
   "body": [
-    "<link rel=\"stylesheet\" href=\"https://kit.fontawesome.com/0015b7851a.css\" crossorigin=\"anonymous\">"
+    "<!-- fontawesome css -->",
+    "<link rel=\"stylesheet\" href=\"https://kit.fontawesome.com/0015b7851a.css\" crossorigin=\"anonymous\">",
+    "<!-- fontawesome js -->",
+    "<script src=\"https://kit.fontawesome.com/0015b7851a.js\" crossorigin=\"anonymous\"></script>"
   ],
-  "description": "css"
+  "description": "js"
 }
