@@ -1,0 +1,7 @@
+"css": {
+  "prefix": "fontawesome",
+  "body": [
+    "<link rel=\"stylesheet\" href=\"https://kit.fontawesome.com/0015b7851a.css\" crossorigin=\"anonymous\">"
+  ],
+  "description": "css"
+}
