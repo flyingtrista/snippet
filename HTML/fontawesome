@@ -1,4 +1,4 @@
-"js": {
+"fontawesome": {
   "prefix": "fontawesome",
   "body": [
     "<!-- fontawesome css -->",
@@ -6,5 +6,5 @@
     "<!-- fontawesome js -->",
     "<script src=\"https://kit.fontawesome.com/0015b7851a.js\" crossorigin=\"anonymous\"></script>"
   ],
-  "description": "js"
+  "description": "fontawesome"
 }
